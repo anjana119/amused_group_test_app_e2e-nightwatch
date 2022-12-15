@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="testFilterByAlcoholic"
+    errors="0" failures="0" hostname="" id="" package="testFilterByAlcoholic" skipped="0"
+    tests="1" time="2.052" timestamp="">
+  
+    <testcase name="Test filter by alcoholic flow" classname="testFilterByAlcoholic" time="2.052" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
